@@ -1,8 +1,8 @@
-# include <stdio.h>	
+#include <stdio.h>	
 /**
  * main -program entry
+ * Return: By defaults returns zero if no errors otherwise returns non-zero
  *
- * Return: By defaults returns zero if no errors otherwise returns non-zero value.
  */
 int main(void)
 {
