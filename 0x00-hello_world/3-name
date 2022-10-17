@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc o ci sfun $fun $CFILE 
+gcc $CFILE  -o cisfun

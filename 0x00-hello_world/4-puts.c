@@ -1,13 +1,11 @@
 # include <stdio.h>
-
 /**
- * main -printing
- *
- * Return: Always on (successful)
- * /
- int main(void)
- {
- put ("\"Programming is like building a multilingual puzzle") ;
- return(0);
+ * main -program entry
+ * Return: By defaults returns zero if no errors otherwise returns non-zero value.
+ */
 
- }
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	 return (0);
+}
