@@ -1,13 +1,11 @@
-#include <stdio.h>
-
+#include <stdio.>
 /**
- * main-Print a text
+ * main - print a c program using printf
  *
- * Rerurn : Always 0 (success)
+ * Return: 0
  */
 int main(void)
 {
-      printf("with proper grammar, but the outcome is a piece of art,\n");
-      return(0);
-
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
